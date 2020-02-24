@@ -333,6 +333,7 @@ function editBandit(i){
   
   let arrBandits = []; 
   alert(arrBandits);
+
   
   
   document.getElementById("createPerson").addEventListener("click", function() {
